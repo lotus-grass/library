@@ -1,0 +1,58 @@
+27 56
+10 17 19 8 4 25 23 21 24 16 2 5 9 6 12 14 3 22 1 20 26 27 11 13 18 7 15 
+Query 20
+Query 11
+Insert 8 0
+Top 22
+Bottom 20
+Ask 26
+Query 2
+Insert 27 -1
+Bottom 23
+Ask 11
+Bottom 16
+Ask 5
+Top 26
+Insert 16 0
+Top 24
+Query 16
+Query 22
+Bottom 14
+Ask 16
+Insert 6 0
+Ask 24
+Insert 22 -1
+Insert 7 1
+Insert 5 1
+Insert 26 0
+Top 25
+Ask 16
+Ask 19
+Ask 9
+Ask 16
+Query 10
+Top 27
+Insert 16 1
+Query 11
+Top 26
+Insert 3 0
+Insert 8 -1
+Insert 21 -1
+Ask 16
+Top 2
+Ask 26
+Ask 21
+Ask 20
+Bottom 26
+Ask 19
+Insert 12 1
+Bottom 26
+Query 3
+Bottom 10
+Ask 7
+Ask 3
+Insert 21 1
+Query 10
+Query 10
+Top 22
+Insert 24 0

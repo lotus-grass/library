@@ -1,0 +1,496 @@
+55
+1
+BWWWWWWW
+WWWWWWWW
+WWBBWWWW
+WBWBBWWW
+WBWWBWWW
+WWWWWBWW
+WWWWWWBW
+WBBBBBBB
+2
+WWWWWWWB
+WBWWBWWB
+WBWWWWWB
+WBBWWWWB
+WBWBBWWB
+BBBWWWWB
+BBWWWWWB
+ WWWWWWW
+4
+BBBBBBBW
+WBWWBBBW
+WWBWWWWW
+WWWBBBWB
+WWWWBWBB
+WWWWWBBB
+WWBWBBBB
+WWWWWWWB
+1
+        
+     B  
+     B W
+   BBBWW
+   BB  W
+   B    
+        
+        
+1
+        
+        
+  BBB   
+  BBB   
+BBBBB   
+  B     
+  B     
+        
+2
+ BWB WWB
+  WWWWWB
+WWWBWWWB
+WWWBBBWB
+B WBWBBB
+ BWWWBBB
+ WWBBBBB
+WW BWWWW
+3
+        
+  W  B  
+W W BB  
+ WBBB   
+ BWBB   
+ WBWB   
+W  WWW  
+        
+2
+        
+        
+  B     
+  WBW   
+   WB   
+  WB    
+        
+        
+3
+        
+        
+        
+   BW   
+   WB   
+        
+        
+        
+2
+ W      
+  W  B  
+  WWBB  
+   BBB  
+   BB   
+   BB   
+     B  
+        
+1
+BBBBBB  
+WWWWW  B
+WWBBBWBB
+WWBBWBWB
+WWWBBWWW
+WWBBBWW 
+ WBWWWW 
+  BBBBB 
+3
+B W W B 
+BBW  WBB
+B B BBBB
+BBWBBBWB
+BBWWB WB
+BBWWBWWB
+BWWWW WB
+WW WWWWB
+1
+  WWWWWW
+WB BBWWB
+BBBWBW B
+BBBWBWWB
+BBBWBBWB
+BBBW WWB
+BBBWW BB
+BBBW B B
+4
+WWWWWWWB
+BBBBWBBB
+BBBWBBBB
+WWWBWBWB
+ WWWWWWB
+  WBBWBB
+ WWWWBWB
+BBBBBBBB
+3
+WB BWW  
+BW BW WW
+BBWBWWWW
+ BWBBWWW
+WWBBWWBW
+WWBBWWBW
+WWBBWWWW
+BBBBBBWW
+4
+       B
+  B   B 
+  WWWB  
+WW BB   
+BWWBBB  
+  WWWB  
+   BBBB 
+    B W 
+2
+        
+        
+  BW W  
+   BWB  
+   WB   
+        
+        
+        
+3
+    BB W
+   BBWW 
+   WBBW 
+ WWBWB  
+BWBBWWB 
+WWWWWWW 
+  WW B  
+  W     
+4
+        
+        
+    BW  
+   BW   
+   WB   
+  WB    
+        
+        
+4
+ WWWWBW 
+ WWWBW  
+BBBBW   
+WWBWWW  
+ WBWWBB 
+WWWW WB 
+BWW  W  
+ WBBBBB 
+1
+        
+        
+     WB 
+   BWB  
+ WWWBW  
+ BBB    
+        
+        
+2
+     BW 
+ B  BBW 
+  BBBBW 
+ BBBB W 
+BBBBWWWW
+BWBBWWWW
+WWWWWWWW
+  WWW W 
+2
+        
+  BW B  
+   W B  
+  BBBB  
+   WWWW 
+      W 
+       W
+        
+1
+        
+        
+    B   
+  WWWB  
+   BB B 
+   BBB  
+        
+        
+1
+  BB    
+   BBB  
+  BWBB  
+B WWWB  
+ WBWWWBW
+W B W WB
+      BB
+     B  
+3
+     BBB
+    WWBB
+ B  WWBB
+ WWWWWBB
+BBWBBBBW
+  BWWBBW
+ B    B 
+     W B
+4
+ WWWWB W
+WWWWW WB
+ BWBBBBW
+BWBBBBW 
+WWWWWWWW
+WWBWBWW 
+WWWBWWBB
+WWWWWWWW
+4
+ BW   B 
+B BW B  
+ WBBBBW 
+WBBBB  W
+WBWBBB  
+ WWWWWB 
+WWWWB   
+BBBBBBB 
+4
+   W  WB
+    WWWW
+ B BWBW 
+WBBWBWW 
+WBWBWWBW
+WWWWW WB
+WWWWWB B
+  WB  BB
+1
+        
+       B
+WWW   BB
+  WWBBB 
+  WWWBB 
+  W  WBW
+  W  WB 
+  W     
+2
+B BBBBWB
+BBBBWWBB
+BBWBWWBB
+BWBWBBBB
+WWWWWWBW
+WWWBBWBW
+WWWBWBBW
+WWWWWWBW
+3
+      WB
+WBB B BB
+ BBWBBBB
+BBWBWBB 
+BW WBBW 
+WBWWBWWW
+ WBBWWWW
+WWWWW  W
+3
+BBBBBBBW
+BBBBWWWW
+BWBBWWWW
+BWBBWWBW
+BBWBBBWW
+BBBWWBBB
+BBBBBBB 
+BBBWWW  
+2
+   WB B 
+  WWWBW 
+ WBWW  W
+ BBBBWWW
+BBBWBWW 
+  BBWWWW
+    BWBW
+   B  W 
+3
+  B   WW
+  BBBBBB
+ WWWWWBW
+BWWBWW  
+ WWWBW  
+WWBBBW  
+ WBBWW  
+WWW  W  
+4
+BBBBBBWB
+ BBBWWWB
+ B BBBWB
+BBBBBWWB
+ BBBWWWB
+WBWBBWBB
+ WWWWBBB
+  WW WWW
+4
+BBBBBBBB
+BBBWBWWW
+BBWWWWWB
+BWWWBWBB
+BWBBWWBB
+BWBBBBWB
+BBBBBBBB
+BBBBBBBB
+4
+BW B W W
+ BBBBW W
+BBBBBBBW
+BBBWBWB 
+BBWBWBBW
+BBWWBWB 
+WW   BBB
+WB    B 
+4
+W B   B 
+ WWWWB  
+WWW WW  
+BBBBW   
+BWBWW   
+BBBBW   
+B B W   
+    W   
+2
+ B W   B
+  BW  B 
+ BWWWWW 
+  BWWWW 
+ WBBBBBB
+W BBBBB 
+ B BBW  
+B  B  W 
+1
+BWWWWWWW
+WWWWWWWW
+WWBBWWWW
+WBWBBWWW
+WBWWBWWW
+WWWWWBWW
+WWWWWWBW
+WBBBBBBB
+2
+WWWWWWWB
+WBWWBWWB
+WBWWWWWB
+WBBWWWWB
+WBWBBWWB
+BBBWWWWB
+BBWWWWWB
+ WWWWWWW
+4
+BBBBBBBW
+WBWWBBBW
+WWBWWWWW
+WWWBBBWB
+WWWWBWBB
+WWWWWBBB
+WWBWBBBB
+WWWWWWWB
+1
+        
+     B  
+     B W
+   BBBWW
+   BB  W
+   B    
+        
+        
+1
+        
+        
+  BBB   
+  BBB   
+BBBBB   
+  B     
+  B     
+        
+1
+        
+     B  
+     B W
+   BBBWW
+   BB  W
+   B    
+        
+        
+4
+  B     
+W B   W 
+WWBBBBB 
+WWWBB   
+W BWBBW 
+   BWBWB
+    BWB 
+     BBB
+3
+W   W B 
+ WW WWWB
+B WWWWWB
+ BWWWBWB
+WWBWWW  
+ W BBBB 
+BBBBBBB 
+     W B
+3
+        
+   B    
+  BBB   
+  BBWW  
+  BBBW  
+     WB 
+        
+        
+3
+  W   W 
+   W W  
+    W W 
+  WWWWWW
+   WWBWW
+ BBWBB  
+  W W   
+ W  W   
+1
+        
+     B  
+     B W
+   BBBWW
+   BB  W
+   B    
+        
+        
+1
+        
+        
+  BBB   
+  BBB   
+BBBBB   
+  B     
+  B     
+        
+3
+        
+  W W   
+  WWWW  
+WWWWWW  
+  WWWWWW
+ WW     
+W W     
+        
+3
+        
+        
+        
+W  BBB  
+WWBBB   
+W B     
+ BB     
+  B     
+4
+        
+        
+ B  B   
+BBWBB   
+ W BB   
+WWBB    
+ W B    
+BWWB    

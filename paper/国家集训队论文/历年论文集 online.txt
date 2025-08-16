@@ -1,0 +1,3 @@
+OI-wiki libs:https://github.com/OI-wiki/libs/tree/3e289295d1a3a9db0524b2754b50d02921c1fa1a/%E9%9B%86%E8%AE%AD%E9%98%9F%E5%8E%86%E5%B9%B4%E8%AE%BA%E6%96%87
+
+NTT 2020:https://rusunoi.github.io/books/National-Team-Thesis/2020.pdf（挺慢的说实话）
